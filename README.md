@@ -11,25 +11,23 @@ This repository contains a comprehensive exploration of neural networks. It star
 - The Universal Pattern: How all methods follow the same core principle: Model -> Loss -> Gradient -> Update
 
 
-You can view an interactive presentation by opening presentation/index.html 
 
 
 Otherwise, you can explore the complete mathematical derivations found in the docs/ folder.
 
 Also, there is a section on the complete transformation of the mathematical derivations to Python code directly. This would be beneficial for a complete beginner to understand the foundations.
-
 Project Directory Structure:
 ```
 MathematicalNeuralNetwork/
-├── README.md                          # You are here!
-├── docs/                              # Mathematical derivations
-│   ├── linear-regression-derivation.pdf
-│   ├── logistic-regression-derivation.pdf
-│   └── neural-network-backpropagation.pdf
-├── presentation/                      # Interactive experience
-│   └── index.html                     # Main
-├── notebooks/                         # Implementation
-│   └── NeuralNetworkCode-Walkthrough. # Complete implementation
+├── README.md
+├── LICENSE
+├── .gitignore
+└── docs/
+    ├── DeepLearningOverview.pdf
+    ├── linear-regression.pdf
+    ├── logistic-regression.pdf
+    ├── NeuralNetwork.pdf
+    └── NeuralNetworkWalkthrough.pdf
 ```
 
 
