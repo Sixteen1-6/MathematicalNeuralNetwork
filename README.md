@@ -1,5 +1,5 @@
 # Neural Networks: From Black Box to Glass Box
-Transforming the mysterious "black box" of neural networks into a transparent glass box through comprehensive mathematical derivations. 
+Transforming the mysterious "black box" of neural networks into a transparent glass box through mathematical derivations. 
 
 This repository contains a comprehensive exploration of neural networks. It starts from the basics of linear regression and builds all the way up to backpropagation, with every step derived.
 
