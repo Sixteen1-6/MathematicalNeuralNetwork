@@ -4,7 +4,7 @@ Transforming the mysterious "black box" of neural networks into a transparent gl
 This repository contains a comprehensive exploration of neural networks. It starts from the basics of linear regression and builds all the way up to backpropagation, with every step derived.
 
 
-## What You Can Learn
+### What You Can Learn
 - Linear Regression: Matrix formulations and the normal equation 
 - Logistic Regression: Sigmoid functions and cross-entropy loss
 - Neural Networks: Forward propagation and backpropagation algorithms
