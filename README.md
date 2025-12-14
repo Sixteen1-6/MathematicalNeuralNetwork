@@ -10,11 +10,9 @@ This repository contains a comprehensive exploration of neural networks. It star
 - Neural Networks: Forward propagation and backpropagation algorithms
 - The Universal Pattern: How all methods follow the same core principle: Model -> Loss -> Gradient -> Update
 
+Also, **NeuralNetworkWalkthrough** shows the complete transformation of the derivations to Python code. This would be beneficial for a complete beginner to understand the foundations even further.
 
 Otherwise, you can explore the complete mathematical derivations found in the docs/ folder.
-
-<!-- Also, there is a section on the complete transformation of the mathematical derivations to Python code directly. This would be beneficial for a complete beginner to understand the foundations.  -->
-
 
 ## Project Directory Structure
 ```
