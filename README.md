@@ -16,7 +16,7 @@ Otherwise, you can explore the complete mathematical derivations found in the do
 <!-- Also, there is a section on the complete transformation of the mathematical derivations to Python code directly. This would be beneficial for a complete beginner to understand the foundations.  -->
 
 
-### Project Directory Structure
+## Project Directory Structure
 ```
 MathematicalNeuralNetwork/
 ├── README.md
